@@ -22,6 +22,7 @@ require (
 	github.com/cosi-project/runtime v0.0.0-20211216175730-264f8fcd1a4f // indirect
 	github.com/gertd/go-pluralize v0.1.7 // indirect
 	github.com/google/go-cmp v0.5.6 // indirect
+	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/josharian/native v0.0.0-20200817173448-b6b71def0850 // indirect
